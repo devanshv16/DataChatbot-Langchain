@@ -27,4 +27,5 @@ To get started, clone the repository and install the required dependencies.
 git clone https://github.com/devanshv16/DataChatbot-Langchain.git
 cd DataChatbot-Langchain
 pip install -r requirements.txt
+jupyter notebook chatbot.ipynb
 ```
